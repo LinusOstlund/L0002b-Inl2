@@ -5,7 +5,7 @@ L0002b, Inlämning 2
 Sommarterminen (juni-augusti) 2021
 
 # Om inlämningen
-I repot finns [Program.cs]((https://github.com/LinusOstlund/L0002b-Inl2/blob/main/Inl2-Console/SalesForce/SalesForce/Program.cs)) (under `L0002b-Inl2/Inl2-Console/SalesForce/SalesForce/Program.cs) som går att köra enligt uppgiftlydelsen. Där ges valet att antingen autogenerera säljare, eller mata in dessa manuellt. Därefter sorteras dem i säljnivå. För att underlätta sorteringen användes en sk `MultiMap` vilket är en `Dictionary` som tillåter nycklar att mappa till fler än ett värde. 
+I repot finns [Program.cs]((https://github.com/LinusOstlund/L0002b-Inl2/blob/main/Inl2-Console/SalesForce/SalesForce/Program.cs)) (under `L0002b-Inl2/Inl2-Console/SalesForce/SalesForce/Program.cs`) som går att köra enligt uppgiftlydelsen. Där ges valet att antingen autogenerera säljare, eller mata in dessa manuellt. Därefter sorteras dem i säljnivå. För att underlätta sorteringen användes en sk `MultiMap` vilket är en `Dictionary` som tillåter nycklar att mappa till fler än ett värde. 
 
 Dessutom skrivs resultatet till en `.txt`-fil som hamnar i samma undermapp som `solution`-filen.
 
